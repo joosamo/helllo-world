@@ -1,2 +1,5 @@
 # helllo-world
-Just another repository
+
+Hi World,
+
+I'm Kuj Patel, and this is the beginning of the Coding Legend.
